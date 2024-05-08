@@ -27,9 +27,10 @@
 </h3>
 
 The AI in Hand Platform, the core of our AI Solutions:
-Develop and manage agents with the AI in Hand Platform; a comprehensive suite for managing your AI workforce.
-- [`AI in Hand Platform↗️`](https://www.ainhand.com/platform) - The platform for building and managing AI-driven business solutions.
-- [`GitHub↗️`](https://github.com/AI-in-Hand/platform) - The source code.
+- Develop and manage agents with the AI in Hand Platform; a comprehensive suite for managing your AI workforce.
+- Links:
+  - [`AI in Hand Platform↗️`](https://www.ainhand.com/platform) - The platform for building and managing AI-driven business solutions.
+  - [`GitHub↗️`](https://github.com/AI-in-Hand/platform) - The source code.
 
 Communicate with AI through our user-friendly interface; your portal to harnessing AI capabilities:
 - (coming soon) [`AI Portal↗️`](https://portal.ainhand.com) - Connect with AI agents quickly and efficiently.
